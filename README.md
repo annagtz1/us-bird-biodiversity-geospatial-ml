@@ -4,6 +4,10 @@ How does bird observation data vary across an urbanizing country — and
 what does that tell us about which species adapt to human-altered
 environments?
 
+📄 See the [project poster](./us-bird-biodiversity-poster.png) for a
+one-page visual summary, or the [full report](./us-bird-biodiversity-report.docx)
+for the complete write-up with all charts and findings.
+
 ## Overview
 
 Bird populations are widely used as indicators of overall ecosystem
@@ -59,7 +63,9 @@ bird activity varies with region and human development.
 ## Repository structure
 
 ```
-├── us-bird-biodiversity.ipynb    # full analysis: data collection, cleaning, visualization, NLP, clustering
+├── us-bird-biodiversity.ipynb          # full analysis: data collection, cleaning, visualization, NLP, clustering
+├── us-bird-biodiversity-report.docx    # full write-up with all charts and findings
+├── us-bird-biodiversity-poster.png     # one-page visual summary
 └── README.md
 ```
 
