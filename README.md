@@ -4,7 +4,7 @@ How does bird observation data vary across an urbanizing country — and
 what does that tell us about which species adapt to human-altered
 environments?
 
-📄 See the [project poster](./us-bird-biodiversity-poster.png) for a
+See the [project poster](./us-bird-biodiversity-poster.png) for a
 one-page visual summary, or the [full report](./us-bird-biodiversity-report.docx)
 for the complete write-up with all charts and findings.
 
